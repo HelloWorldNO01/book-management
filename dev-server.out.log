@@ -1,0 +1,21 @@
+
+> vue-library-course-app@1.0.0 dev
+> node scripts/dev.js
+
+
+> vue-library-course-app@1.0.0 dev:server
+> node server/index.js
+
+
+> vue-library-course-app@1.0.0 dev:client
+> vite
+
+server running at http://127.0.0.1:3000
+
+  [32m[1mVITE[22m v6.4.3[39m  [2mready in [0m[1m673[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m5173[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://172.29.192.1:[1m5173[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://172.20.10.5:[1m5173[22m/[39m
+[2m20:06:37[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.vue[22m
+[2m20:08:34[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css[22m
