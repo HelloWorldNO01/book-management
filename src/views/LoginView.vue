@@ -445,7 +445,7 @@
 
 
 
-      <span class="cyr">该系统由Lifei Software Corporation 提供</span>
+      <span class="cyr">© 2026 LiFei All rights reserved.   <br ><a class="link" href="https://beian.miit.gov.cn/#/Integrated/recordQuery">蒙ICP备2026007813</a></span>
 
 
     </div>
@@ -464,6 +464,25 @@
 </template>
 
 <style scoped>
+
+  .link{
+
+    color: #086bd3;
+
+  }
+
+  .link:hover{
+    color: #23C4F8;
+    text-decoration: underline;
+  }
+  .link:active{
+    color: #086bd3;
+  }
+  .link:visited{
+    color: #23C4F8;
+    text-decoration: underline;
+  }
+
   .status{
     color: red;
     text-align: center;
@@ -945,6 +964,7 @@
 
     color: gray;
     text-align: center;
+    
   }
 
   .fgp{
